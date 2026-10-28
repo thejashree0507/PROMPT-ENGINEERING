@@ -62,7 +62,7 @@ Step 7: Finalize and Export
 
 2. Act as a prompt Engineering Professor. Explain the main architectures used in Generative AI, especially the Transformer architecture for 3rd year student. Describe how Transformers work, their main components, why they are important, and where they are used. Use simple language, headings, and examples.
 
-3. 1. Act as a prompt Engineering Professor. Explain the Generative AI applications., especially for 3rd year college student.Use simple English, explain each application with real-life examples such as education, healthcare, business, and entertainment. Present the answer using headings and bullet points. Include a short conclusion.
+3. Act as a prompt Engineering Professor. Explain the Generative AI applications., especially for 3rd year college student.Use simple English, explain each application with real-life examples such as education, healthcare, business, and entertainment. Present the answer using headings and bullet points. Include a short conclusion.
 
 4. Act as an prompt teacher and explain how scaling improves the performance of Large Language Models (LLMs) for 3rd year student. Describe how increasing model size, training data, and computing power affects performance. Include the advantages, challenges, limitations, and examples of popular LLMs. Use simple English and provide a clear, well-structured answer with examples.
 
