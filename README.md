@@ -5,6 +5,7 @@ Develop a comprehensive report for the following exercises:
 2.	Focusing on Generative AI architectures. (like transformers).
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
+5.	Explain about LLM and how it is build.
 
 # Algorithm: Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
@@ -55,9 +56,31 @@ Step 7: Finalize and Export
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
 
+# Prompt:
+
+1. Act as a prompt Engineering Professor. Explain the foundational concepts of Generative AI in simple and easy-to-understand language for Third year college Student. Include the definition, Working principle, key features, advantages, disadvantages, with two real-world examples. Present the answer with clear headings and bullet points.
+
+2. Act as a prompt Engineering Professor. Explain the main architectures used in Generative AI, especially the Transformer architecture for 3rd year student. Describe how Transformers work, their main components, why they are important, and where they are used. Use simple language, headings, and examples.
+
+3. 1. Act as a prompt Engineering Professor. Explain the Generative AI applications., especially for 3rd year college student.Use simple English, explain each application with real-life examples such as education, healthcare, business, and entertainment. Present the answer using headings and bullet points. Include a short conclusion.
+
+4. Act as an prompt teacher and explain how scaling improves the performance of Large Language Models (LLMs) for 3rd year student. Describe how increasing model size, training data, and computing power affects performance. Include the advantages, challenges, limitations, and examples of popular LLMs. Use simple English and provide a clear, well-structured answer with examples.
+
+5. Act as an prompt teacher. Explain what is Large Language Model (LLM)  and how it is built in simple language for 3rd year student. Describe the process step by step used in LLM. Use headings, bullet points, and examples. Keep the explanation clear and give simple conclusion.
 
 
 # Output
 
+## PROMPT 1(chatgpt)
+## PROMPT 1(Gemini)
+## PROMPT 2(chatgpt)
+## PROMPT 2(Gemini)
+## PROMPT 3(chatgpt)
+## PROMPT 3(Gemini)
+## PROMPT 4(chatgpt)
+## PROMPT 4(Gemini)
+## PROMPT 5(chatgpt)
+## PROMPT 5(Gemini)
 
 # Result
+The prompts were successfully tested on ChatGPT and Gemini, and the models were compared based on accuracy, creativity, hallucination, reasoning, and speed, with ChatGPT showing the best overall performance.
