@@ -1164,10 +1164,6 @@ This is an illustration, not a guarantee: a smaller model trained well for a par
 
 Research on scaling laws shows that model performance often improves predictably as scale increases, but the improvement is not unlimited or necessarily proportional to model size.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://openai.com\&sz=32)
-
-OpenAI+1
-
 
 
 ## 4. How Increasing Training Data Improves Performance
